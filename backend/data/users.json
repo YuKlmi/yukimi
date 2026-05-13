@@ -1,0 +1,16 @@
+[
+    {
+        "id": "2024001",
+        "username": "student1",
+        "password": "123456",
+        "name": "张三",
+        "max_credits": 25
+    },
+    {
+        "id": "2024002",
+        "username": "student2",
+        "password": "123456",
+        "name": "李四",
+        "max_credits": 25
+    }
+]

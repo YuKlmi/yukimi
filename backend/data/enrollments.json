@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "student_id": "2024001",
+    "course_id": "CS101",
+    "enrolled_at": "2026-05-13 18:27:03",
+    "_course": {
+      "id": "CS101",
+      "name": "操作系统",
+      "teacher": "张教授",
+      "type": "必修",
+      "credits": 4,
+      "capacity": 60,
+      "enrolled": 46,
+      "schedule": [
+        {
+          "day": "周一",
+          "start": 1,
+          "end": 2,
+          "location": "教学楼A101"
+        },
+        {
+          "day": "周三",
+          "start": 3,
+          "end": 4,
+          "location": "教学楼A101"
+        }
+      ],
+      "description": "学习操作系统的基本概念、进程管理、内存管理、文件系统等核心知识"
+    }
+  }
+]

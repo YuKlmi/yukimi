@@ -1,0 +1,236 @@
+[
+  {
+    "id": "CS101",
+    "name": "操作系统",
+    "teacher": "张教授",
+    "type": "必修",
+    "credits": 4,
+    "capacity": 60,
+    "enrolled": 46,
+    "schedule": [
+      {
+        "day": "周一",
+        "start": 1,
+        "end": 2,
+        "location": "教学楼A101"
+      },
+      {
+        "day": "周三",
+        "start": 3,
+        "end": 4,
+        "location": "教学楼A101"
+      }
+    ],
+    "description": "学习操作系统的基本概念、进程管理、内存管理、文件系统等核心知识"
+  },
+  {
+    "id": "CS201",
+    "name": "数据结构",
+    "teacher": "李教授",
+    "type": "必修",
+    "credits": 4,
+    "capacity": 55,
+    "enrolled": 50,
+    "schedule": [
+      {
+        "day": "周二",
+        "start": 1,
+        "end": 2,
+        "location": "教学楼B201"
+      },
+      {
+        "day": "周四",
+        "start": 3,
+        "end": 4,
+        "location": "教学楼B201"
+      }
+    ],
+    "description": "学习线性表、树、图等基本数据结构及其算法实现"
+  },
+  {
+    "id": "CS301",
+    "name": "计算机网络",
+    "teacher": "王教授",
+    "type": "必修",
+    "credits": 3,
+    "capacity": 50,
+    "enrolled": 48,
+    "schedule": [
+      {
+        "day": "周一",
+        "start": 3,
+        "end": 4,
+        "location": "教学楼C301"
+      },
+      {
+        "day": "周三",
+        "start": 5,
+        "end": 6,
+        "location": "教学楼C301"
+      }
+    ],
+    "description": "学习计算机网络体系结构、TCP/IP协议栈、网络应用等"
+  },
+  {
+    "id": "EE101",
+    "name": "高等数学A",
+    "teacher": "陈教授",
+    "type": "必修",
+    "credits": 5,
+    "capacity": 80,
+    "enrolled": 78,
+    "schedule": [
+      {
+        "day": "周一",
+        "start": 5,
+        "end": 6,
+        "location": "教学楼D101"
+      },
+      {
+        "day": "周三",
+        "start": 1,
+        "end": 2,
+        "location": "教学楼D101"
+      },
+      {
+        "day": "周五",
+        "start": 3,
+        "end": 4,
+        "location": "教学楼D101"
+      }
+    ],
+    "description": "学习微积分、极限、导数、积分等高等数学基础知识"
+  },
+  {
+    "id": "GE201",
+    "name": "人工智能导论",
+    "teacher": "赵教授",
+    "type": "选修",
+    "credits": 3,
+    "capacity": 40,
+    "enrolled": 25,
+    "schedule": [
+      {
+        "day": "周二",
+        "start": 5,
+        "end": 6,
+        "location": "教学楼E501"
+      },
+      {
+        "day": "周四",
+        "start": 7,
+        "end": 8,
+        "location": "教学楼E501"
+      }
+    ],
+    "description": "介绍人工智能基本概念、机器学习、深度学习、自然语言处理等前沿技术"
+  },
+  {
+    "id": "GE202",
+    "name": "软件工程",
+    "teacher": "刘教授",
+    "type": "选修",
+    "credits": 3,
+    "capacity": 45,
+    "enrolled": 30,
+    "schedule": [
+      {
+        "day": "周三",
+        "start": 7,
+        "end": 8,
+        "location": "教学楼F601"
+      },
+      {
+        "day": "周五",
+        "start": 1,
+        "end": 2,
+        "location": "教学楼F601"
+      }
+    ],
+    "description": "学习软件开发全生命周期管理、需求分析、设计、测试等方法论"
+  },
+  {
+    "id": "GE203",
+    "name": "Web前端开发技术",
+    "teacher": "周老师",
+    "type": "选修",
+    "credits": 2,
+    "capacity": 35,
+    "enrolled": 33,
+    "schedule": [
+      {
+        "day": "周四",
+        "start": 5,
+        "end": 6,
+        "location": "实验楼G301"
+      }
+    ],
+    "description": "学习HTML、CSS、JavaScript及Vue/React等现代前端框架"
+  },
+  {
+    "id": "GE204",
+    "name": "数据库原理",
+    "teacher": "吴教授",
+    "type": "选修",
+    "credits": 3,
+    "capacity": 50,
+    "enrolled": 20,
+    "schedule": [
+      {
+        "day": "周二",
+        "start": 3,
+        "end": 4,
+        "location": "教学楼H401"
+      },
+      {
+        "day": "周四",
+        "start": 1,
+        "end": 2,
+        "location": "教学楼H401"
+      }
+    ],
+    "description": "学习关系数据库理论、SQL语言、事务管理、数据库设计等"
+  },
+  {
+    "id": "GE205",
+    "name": "设计模式",
+    "teacher": "郑教授",
+    "type": "选修",
+    "credits": 3,
+    "capacity": 40,
+    "enrolled": 38,
+    "schedule": [
+      {
+        "day": "周一",
+        "start": 7,
+        "end": 8,
+        "location": "教学楼I501"
+      },
+      {
+        "day": "周三",
+        "start": 5,
+        "end": 6,
+        "location": "教学楼I501"
+      }
+    ],
+    "description": "学习面向对象设计模式，包括创建型、结构型、行为型三大类经典模式"
+  },
+  {
+    "id": "GE301",
+    "name": "大学英语",
+    "teacher": "杨教授",
+    "type": "通识",
+    "credits": 2,
+    "capacity": 100,
+    "enrolled": 95,
+    "schedule": [
+      {
+        "day": "周五",
+        "start": 5,
+        "end": 6,
+        "location": "教学楼A201"
+      }
+    ],
+    "description": "提高英语读写译综合应用能力"
+  }
+]
